@@ -129,7 +129,6 @@
     <string name="piko_save_media_comment">Сохранение медиа из комментариев</string>
     <string name="piko_save_media_comment_desc">Добавляет кнопку для сохранения медиа из комментариев в публикациях и Reels</string>
     <string name="piko_enable_direct_download">Включить прямое скачивание</string>
-    <string name="piko_enable_direct_download_desc">Скачивает текущий просматриваемый медиафайл без запроса вариантов</string>
     <string name="piko_download_username_folder">Разделять медиа по имени пользователя</string>
     <string name="piko_download_username_folder_desc">Создаёт подпапки по имени пользователя</string>
     <string name="piko_embed_download_metadata">Встраивать метаданные видео</string>

@@ -123,7 +123,6 @@
     <string name="piko_save_media_comment">Simpan komentar media</string>
     <string name="piko_save_media_comment_desc">Menambahkan tombol untuk menyimpan komentar media pada postingan dan reels</string>
     <string name="piko_enable_direct_download">Aktifkan unduhan langsung</string>
-    <string name="piko_enable_direct_download_desc">Mengunduh media yang sedang dilihat tanpa menanyakan pilihan</string>
     <string name="piko_download_username_folder">Pisahkan media berdasarkan nama pengguna</string>
     <string name="piko_download_username_folder_desc">Membuat subfolder berdasarkan nama pengguna</string>
     <string name="piko_embed_download_metadata">Sematkan metadata video</string>

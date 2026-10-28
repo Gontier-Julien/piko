@@ -10,6 +10,7 @@
     <string name="piko_enable_dev_options">Activer les options développeurs</string>
     <string name="piko_enable_dev_options_desc">Déverrouille les options développeurs en effectuant un appui long sur l\'icône d\'accueil</string>
     <string name="piko_directly_open_metaconfig">Ouvre directement les surcharges MetaConfig</string>
+    <string name="piko_directly_open_metaconfig_desc">Ouvre directement les paramètres de remplacement de MetaConfig en appuyant longuement sur l\'icône d\'accueil</string>
     <string name="piko_enable_emp_options">Activer les options employé</string>
     <string name="piko_enable_emp_options_desc">Déverrouille toutes les options employé utilisées pour les tests</string>
     <string name="piko_allow_user_network_certificate">Autoriser le certificat réseau utilisateur</string>
@@ -157,6 +158,7 @@
     <string name="piko_inbox_lock_prompt">Déverrouillez vos messages</string>
     <string name="piko_inbox_lock_no_lock">Définir un verrouillage de l\'écran sur votre appareil pour utiliser le verrouillage de la boîte de réception</string>
     <string name="piko_hidden_chats">Chats masqués</string>
+    <string name="piko_hidden_chats_desc">Ajoute une option de masquage au menu qui apparaît lorsque vous appuyez longuement sur un chat. Cette option déplace le chat vers une boîte de réception privée, distincte pour chaque compte.</string>
     <string name="piko_hidden_chats_hidden">Chat masqué</string>
     <string name="piko_hidden_chats_unhidden">Chat réaffiché</string>
     <string name="piko_hidden_chats_opened">Chats masqués</string>
@@ -205,15 +207,28 @@
     <string name="piko_enable_download">Activer le téléchargement</string>
     <string name="piko_feed_download_button">Bouton de téléchargement sur les posts du fil</string>
     <string name="piko_feed_download_button_desc">Ajoute une icône de téléchargement à côté du bouton enregistrer sur les posts du fil</string>
+    <string name="piko_reel_download_button">Bouton de téléchargement sur les Reels</string>
+    <string name="piko_reel_download_button_desc">Ajoute une icône de téléchargement à la barre d\'actions des Reels</string>
+    <string name="piko_story_download_button">Bouton de téléchargement sur les stories</string>
+    <string name="piko_story_download_button_desc">Ajoute une icône de téléchargement à côté du champ de réponse aux stories</string>
     <string name="piko_save_media_comment">Enregistrer les médias des commentaires</string>
     <string name="piko_save_media_comment_desc">Ajoute un bouton pour enregistrer les médias des commentaires sur les posts et les reels</string>
     <string name="piko_enable_direct_download">Activer le téléchargement direct</string>
-    <string name="piko_enable_direct_download_desc">Télécharge le média actuellement affiché sans demander d\'options</string>
+    <string name="piko_enable_direct_download_desc">Les boutons de téléchargement sur les posts, les Reels et les stories enregistrent immédiatement le média affiché</string>
+    <string name="piko_select_media_download">Sélectionner le média à télécharger</string>
+    <string name="piko_download_photo_number">Photo %d</string>
+    <string name="piko_download_video_number">Vidéo %d</string>
+    <string name="piko_download_select_all">Tout sélectionner</string>
+    <string name="piko_download_deselect_all">Tout déselectionner</string>
+    <string name="piko_download_selected_count">Télécharger (%d)</string>
+    <string name="piko_download_copy_link_for">Copier le lien pour %s</string>
+    <string name="piko_media_link_unavailable">Lien du média indisponible</string>
     <string name="piko_download_username_folder">Séparer les médias par nom d\'utilisateur</string>
     <string name="piko_download_username_folder_desc">Crée des sous-dossiers en fonction du nom d\'utilisateur</string>
     <string name="piko_prefer_dash_format">Préférer le format DASH</string>
     <string name="piko_prefer_dash_format_desc">Télécharge les vidéos dans la version DASH de la meilleure qualité proposée par Instagram, jusqu\'en 1080p AV1, au lieu du fichier H.264 en 720p</string>
     <string name="piko_dash_audio_aac_lc">Convertir l\'audio DASH en AAC</string>
+    <string name="piko_dash_audio_aac_lc_desc">Réencode le son xHE-AAC des téléchargements DASH au format AAC-LC à 192 kbit/s, ce qui permet à n\'importe quel lecteur de le lire</string>
     <string name="piko_embed_download_metadata">Intégrer les métadonnées de la vidéo</string>
     <string name="piko_embed_download_metadata_desc">Ajoute les sous-titres, le lien de la publication, le créateur et la date de mise en ligne aux fichiers MP4 téléchargés.</string>
     <string name="piko_download_file_name_template">Format du nom du fichier</string>
@@ -490,4 +505,7 @@
     <string name="piko_media_like">like</string>
     <string name="piko_media_link">lien</string>
     <string name="piko_media_activity">activité</string>
+    <string name="piko_disable_telemetry">Désactiver la télémétrie</string>
+    <string name="piko_patch_theme">Thème</string>
+    <string name="piko_patch_settings">Ajouter des paramètres</string>
 </resources>

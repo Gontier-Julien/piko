@@ -150,7 +150,6 @@
     <string name="piko_save_media_comment">保存媒体评论</string>
     <string name="piko_save_media_comment_desc">在帖子和 Reels 上添加了一个用于保存媒体评论的按钮</string>
     <string name="piko_enable_direct_download">启用直接下载</string>
-    <string name="piko_enable_direct_download_desc">不询问直接下载当前浏览媒体</string>
     <string name="piko_download_username_folder">按用户名分组下载内容</string>
     <string name="piko_download_username_folder_desc">基于用户名创建子文件夹</string>
     <string name="piko_embed_download_metadata">嵌入视频元数据</string>

@@ -10,6 +10,7 @@
     <string name="piko_enable_dev_options">Увімкнути параметри розробника</string>
     <string name="piko_enable_dev_options_desc">Розблоковує параметри розробника довгим натисканням на значок «Головна»</string>
     <string name="piko_directly_open_metaconfig">Відкривати налаштування MetaConfig безпосередньо</string>
+    <string name="piko_directly_open_metaconfig_desc">Безпосередньо відкриває перевизначення MetaConfig при тривалому натисканні значка «Головна»</string>
     <string name="piko_enable_emp_options">Увімкнути службові параметри</string>
     <string name="piko_enable_emp_options_desc">Розблоковує всі службові параметри, що використовуються для тестування</string>
     <string name="piko_allow_user_network_certificate">Дозволити користувацькі мережеві сертифікати</string>
@@ -157,6 +158,7 @@
     <string name="piko_inbox_lock_prompt">Розблокуйте ваші повідомлення</string>
     <string name="piko_inbox_lock_no_lock">Встановіть блокування екрана на вашому пристрої, щоб використовувати блокування папки «Вхідні»</string>
     <string name="piko_hidden_chats">Приховані чати</string>
+    <string name="piko_hidden_chats_desc">Додає опцію приховування в меню тривалого натискання на чат, яка переміщує його до приватної папки «Вхідні», окремо для кожного акаунта.</string>
     <string name="piko_hidden_chats_hidden">Чат приховано</string>
     <string name="piko_hidden_chats_unhidden">Чат більше не приховано</string>
     <string name="piko_hidden_chats_opened">Приховані чати</string>
@@ -205,15 +207,28 @@
     <string name="piko_enable_download">Увімкнути завантаження</string>
     <string name="piko_feed_download_button">Кнопка завантаження на дописах у стрічці</string>
     <string name="piko_feed_download_button_desc">Додає значок завантаження поруч із кнопкою збереження на дописах у стрічці</string>
+    <string name="piko_reel_download_button">Кнопка завантаження в Reels</string>
+    <string name="piko_reel_download_button_desc">Додає значок завантаження до стовпця дій Reels</string>
+    <string name="piko_story_download_button">Кнопка завантаження в історіях</string>
+    <string name="piko_story_download_button_desc">Додає значок завантаження поруч із полем відповіді на історію</string>
     <string name="piko_save_media_comment">Зберегти медіа з коментаря</string>
     <string name="piko_save_media_comment_desc">Додає кнопку для збереження медіафайлів із коментарів під дописами та Reels</string>
     <string name="piko_enable_direct_download">Увімкнути пряме завантаження</string>
-    <string name="piko_enable_direct_download_desc">Завантажує відкрите медіа без додаткових запитів</string>
+    <string name="piko_enable_direct_download_desc">Кнопки завантаження на дописах, Reels та історіях негайно зберігають поточне медіа</string>
+    <string name="piko_select_media_download">Виберіть медіа для завантаження</string>
+    <string name="piko_download_photo_number">Фото %d</string>
+    <string name="piko_download_video_number">Відео %d</string>
+    <string name="piko_download_select_all">Вибрати все</string>
+    <string name="piko_download_deselect_all">Скасувати вибір усього</string>
+    <string name="piko_download_selected_count">Завантажити (%d)</string>
+    <string name="piko_download_copy_link_for">Скопіювати посилання для %s</string>
+    <string name="piko_media_link_unavailable">Посилання на медіа недоступне</string>
     <string name="piko_download_username_folder">Розділяти медіа за іменем користувача</string>
     <string name="piko_download_username_folder_desc">Створює підпапки на основі імені користувача</string>
     <string name="piko_prefer_dash_format">Віддавати перевагу формату DASH</string>
     <string name="piko_prefer_dash_format_desc">Завантажує відео з найвищою чіткістю серед версій DASH від Instagram (до 1080p AV1) замість файлу 720p H.264</string>
     <string name="piko_dash_audio_aac_lc">Конвертувати аудіо DASH в AAC</string>
+    <string name="piko_dash_audio_aac_lc_desc">Перекодовує звук xHE-AAC із завантажень DASH у формат AAC-LC зі швидкістю 192 кбіт/с, який може відтворити будь-який плеєр</string>
     <string name="piko_embed_download_metadata">Вбудовувати метадані відео</string>
     <string name="piko_embed_download_metadata_desc">Додає підпис, посилання на допис, автора та дату вивантаження до завантажених файлів MP4</string>
     <string name="piko_download_file_name_template">Формат імені файлу</string>
@@ -490,4 +505,7 @@
     <string name="piko_media_like">подобається</string>
     <string name="piko_media_link">посилання</string>
     <string name="piko_media_activity">активність</string>
+    <string name="piko_disable_telemetry">Вимкнути телеметрію</string>
+    <string name="piko_patch_theme">Тема</string>
+    <string name="piko_patch_settings">Додати налаштування</string>
 </resources>

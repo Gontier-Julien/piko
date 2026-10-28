@@ -100,7 +100,6 @@
     <string name="piko_save_media_comment">儲存媒體留言</string>
     <string name="piko_save_media_comment_desc">在貼文和 Reels 新增一個儲存媒體留言的按鈕</string>
     <string name="piko_enable_direct_download">啟用直接下載</string>
-    <string name="piko_enable_direct_download_desc">直接下載目前檢視的媒體，不詢問選項</string>
     <string name="piko_download_username_folder">按使用者名稱分類媒體</string>
     <string name="piko_download_username_folder_desc">根據使用者名稱建立子資料夾</string>
     <string name="piko_download_current_media">下載當前媒體</string>

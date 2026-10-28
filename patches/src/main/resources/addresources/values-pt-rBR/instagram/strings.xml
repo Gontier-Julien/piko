@@ -10,6 +10,7 @@
     <string name="piko_enable_dev_options">Ativar opções de desenvolvedor</string>
     <string name="piko_enable_dev_options_desc">Ativa as opções de desenvolvedor ao pressionar longamente o ícone de home.</string>
     <string name="piko_directly_open_metaconfig">Abrir MetaConfig overrides diretamente</string>
+    <string name="piko_directly_open_metaconfig_desc">Abre diretamente as configurações do MetaConfig ao pressionar e segurar o ícone inicial</string>
     <string name="piko_enable_emp_options">Ativar opções para funcionários</string>
     <string name="piko_enable_emp_options_desc">Desbloqueia todas as opções de funcionários utilizadas para testes.</string>
     <string name="piko_allow_user_network_certificate">Permitir certificado de rede do usuário</string>
@@ -157,6 +158,7 @@
     <string name="piko_inbox_lock_prompt">Desbloqueie suas mensagens</string>
     <string name="piko_inbox_lock_no_lock">Configure um bloqueio de tela no seu dispositivo para usar o bloqueio da Caixa de Entrada</string>
     <string name="piko_hidden_chats">Chats ocultos</string>
+    <string name="piko_hidden_chats_desc">Adiciona uma opção para ocultar o chat ao menu de contexto pressione e segure, movendo a conversa para uma caixa de entrada privada, separada para cada conta.</string>
     <string name="piko_hidden_chats_hidden">Chat oculto</string>
     <string name="piko_hidden_chats_unhidden">Chat não oculto</string>
     <string name="piko_hidden_chats_opened">Chats ocultos</string>
@@ -208,12 +210,12 @@
     <string name="piko_save_media_comment">Ativar download de mídia do comentário</string>
     <string name="piko_save_media_comment_desc">Adiciona um botão para salvar fotos e gifs dos comentários em posts e reels.</string>
     <string name="piko_enable_direct_download">Ativar download de mídias no direct</string>
-    <string name="piko_enable_direct_download_desc">Baixar foto/vídeo de uma conversa no direct.</string>
     <string name="piko_download_username_folder">Separar mídia por nome de usuário</string>
     <string name="piko_download_username_folder_desc">Cria subpastas com base no nome de usuário.</string>
     <string name="piko_prefer_dash_format">Prefira o formato DASH</string>
     <string name="piko_prefer_dash_format_desc">Baixa vídeos na versão DASH de maior qualidade disponibilizada pelo Instagram, chegando a 1080p em formato AV1, em vez do arquivo em 720p no formato H.264</string>
     <string name="piko_dash_audio_aac_lc">Converter áudio DASH para AAC</string>
+    <string name="piko_dash_audio_aac_lc_desc">Recodifica o áudio xHE-AAC dos downloads do DASH para AAC-LC a 192 kbps, formato compatível com todos os reprodutores</string>
     <string name="piko_embed_download_metadata">Incorporar metadados do vídeo</string>
     <string name="piko_embed_download_metadata_desc">Adiciona a legenda, o link da publicação, o autor e a data de envio aos arquivos MP4 baixados</string>
     <string name="piko_download_file_name_template">Formato do nome do arquivo</string>
@@ -490,4 +492,7 @@
     <string name="piko_media_like">curtir</string>
     <string name="piko_media_link">link</string>
     <string name="piko_media_activity">atividade</string>
+    <string name="piko_disable_telemetry">Desativar telemetria</string>
+    <string name="piko_patch_theme">Tema</string>
+    <string name="piko_patch_settings">Adicionar configurações</string>
 </resources>

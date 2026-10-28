@@ -210,7 +210,6 @@
     <string name="piko_save_media_comment">GIFコメントを保存</string>
     <string name="piko_save_media_comment_desc">投稿やリールのGIFコメントを保存するボタンを追加します</string>
     <string name="piko_enable_direct_download">直接ダウンロードを有効化</string>
-    <string name="piko_enable_direct_download_desc">オプションを表示せず、現在表示中のメディアを直接ダウンロードします</string>
     <string name="piko_download_username_folder">ユーザーネームごとにメディアを分ける</string>
     <string name="piko_download_username_folder_desc">ユーザーネームごとにサブフォルダを作成します</string>
     <string name="piko_prefer_dash_format">DASH形式を優先</string>
@@ -494,7 +493,6 @@
     <string name="piko_media_link">リンク</string>
     <string name="piko_media_activity">アクティビティ</string>
     <string name="piko_disable_telemetry">テレメトリを無効化</string>
-    <string name="piko_patch_clone">クローン</string>
     <string name="piko_patch_theme">テーマ</string>
     <string name="piko_patch_settings">設定を追加</string>
 </resources>

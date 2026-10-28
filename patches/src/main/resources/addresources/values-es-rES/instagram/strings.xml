@@ -10,6 +10,7 @@
     <string name="piko_enable_dev_options">Activar las opciones de desarrollador</string>
     <string name="piko_enable_dev_options_desc">Activa la opción de desarrollador al mantener pulsado el icono de inicio</string>
     <string name="piko_directly_open_metaconfig">Abre directamente las modificaciones de MetaConfig</string>
+    <string name="piko_directly_open_metaconfig_desc">Abre directamente las anulaciones de MetaConfig al mantener pulsado el icono de inicio</string>
     <string name="piko_enable_emp_options">Activar menú de empleados</string>
     <string name="piko_enable_emp_options_desc">Desbloquea todas las opciones de empleados utilizadas para pruebas</string>
     <string name="piko_allow_user_network_certificate">Permitir certificado de red del usuario</string>
@@ -157,6 +158,7 @@
     <string name="piko_inbox_lock_prompt">Desbloquea tus mensajes</string>
     <string name="piko_inbox_lock_no_lock">Establezca un bloqueo de pantalla en su dispositivo para usar el bloqueo de bandeja de entrada</string>
     <string name="piko_hidden_chats">Chats ocultos</string>
+    <string name="piko_hidden_chats_desc">Añade una opción para ocultar al menú de pulsación larga de los chats, que mueve el chat a una bandeja privada, independiente para cada cuenta.</string>
     <string name="piko_hidden_chats_hidden">Chat oculto</string>
     <string name="piko_hidden_chats_unhidden">Chat desoculto</string>
     <string name="piko_hidden_chats_opened">Chats ocultos</string>
@@ -205,15 +207,28 @@
     <string name="piko_enable_download">Activar descarga</string>
     <string name="piko_feed_download_button">Botón de descarga en publicaciones de feed</string>
     <string name="piko_feed_download_button_desc">Agrega un ícono de descarga al lado del botón Guardar en las publicaciones del feed</string>
+    <string name="piko_reel_download_button">Botón de descarga en los reels</string>
+    <string name="piko_reel_download_button_desc">Añade un icono de descarga a la columna de acciones de los reels</string>
+    <string name="piko_story_download_button">Botón de descarga en las historias</string>
+    <string name="piko_story_download_button_desc">Añade un icono de descarga junto al campo de respuesta de la historia</string>
     <string name="piko_save_media_comment">Guardar comentario del medio</string>
     <string name="piko_save_media_comment_desc">Agrega un botón para copiar comentarios en publicaciones y reels</string>
     <string name="piko_enable_direct_download">Activar descarga directa</string>
-    <string name="piko_enable_direct_download_desc">Descarga el medio actual sin pedir opciones</string>
+    <string name="piko_enable_direct_download_desc">Los botones de descarga en publicaciones, reels e historias guardan al instante el contenido actual</string>
+    <string name="piko_select_media_download">Selecciona el contenido que quieres descargar</string>
+    <string name="piko_download_photo_number">Foto %d</string>
+    <string name="piko_download_video_number">Vídeo %d</string>
+    <string name="piko_download_select_all">Seleccionar todo</string>
+    <string name="piko_download_deselect_all">Deseleccionar todo</string>
+    <string name="piko_download_selected_count">Descargar (%d)</string>
+    <string name="piko_download_copy_link_for">Copiar enlace de %s</string>
+    <string name="piko_media_link_unavailable">Enlace del contenido no disponible</string>
     <string name="piko_download_username_folder">Separar medios por nombre de usuario</string>
     <string name="piko_download_username_folder_desc">Crea subcarpetas basadas en el nombre de usuario</string>
     <string name="piko_prefer_dash_format">Preferir el formato DASH</string>
     <string name="piko_prefer_dash_format_desc">Descarga vídeos en la versión DASH de mayor calidad que ofrece Instagram hasta 1080p en formato AV1, en lugar del archivo H.264 a 720p</string>
     <string name="piko_dash_audio_aac_lc">Convertir audio DASH a AAC</string>
+    <string name="piko_dash_audio_aac_lc_desc">Recodifica el sonido xHE-AAC de las descargas DASH como AAC-LC a 192 kbps, que cualquier reproductor puede reproducir</string>
     <string name="piko_embed_download_metadata">Incruste metadatos de video</string>
     <string name="piko_embed_download_metadata_desc">Agrega el título, el enlace de la publicación, el creador y la fecha de carga a los archivos MP4 descargados</string>
     <string name="piko_download_file_name_template">Formato de nombre de archivo</string>
@@ -490,4 +505,7 @@
     <string name="piko_media_like">me gusta</string>
     <string name="piko_media_link">link</string>
     <string name="piko_media_activity">actividad</string>
+    <string name="piko_disable_telemetry">Desactivar telemetría</string>
+    <string name="piko_patch_theme">Tema</string>
+    <string name="piko_patch_settings">Añadir ajustes</string>
 </resources>
