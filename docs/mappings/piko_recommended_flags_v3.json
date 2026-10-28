@@ -203,6 +203,11 @@
     "code" : "68885"
   },
   {
+    "name" : "High quality uploads",
+    "desc" : "Enable to improve the quality (mostly less compression) of uploads.",
+    "code" : "23744::0,38195::2:60.0,75689::0,75689::1,75689::2,75689::3,75689::4,75689::5,75689::6,75689::7,75689::8,76431::0,80122::1::100,116170::2::100"
+  },
+  {
     "name" : "Per-session auto-scroll",
     "desc" : "Disable to keep auto-scroll in the state you left it, instead of resetting to off every time Instagram is closed.",
     "code" : "83371::10"
